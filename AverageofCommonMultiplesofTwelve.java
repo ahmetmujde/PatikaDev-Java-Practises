@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class CommonMultiplesOfTwelve {
+public class AverageofCommonMultiplesofTwelve {
 
     public static void main(String[] args){
 
