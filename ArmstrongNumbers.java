@@ -6,7 +6,7 @@ public class ArmstrongNumbers {
 
 
         /* Chapter one
-            This chapter wants a value from user and program find the armstrong number
+            This chapter wants a value from user and program find the armstrong number.
         */
 
         Scanner scanner = new Scanner(System.in);
