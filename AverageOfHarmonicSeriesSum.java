@@ -9,7 +9,6 @@ public class AverageOfHarmonicSeriesSum {
         for (int i = 0; i < n; i++) {
             sum += 1 / (double) numbers[i];
         }
-
         System.out.println(n / sum);
     }
 }
